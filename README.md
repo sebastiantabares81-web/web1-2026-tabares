@@ -1,14 +1,15 @@
 # Perfil de jugador — Programación Web 1
 
-**Nombre:** <!-- tu nombre completo -->
+**Nombre:** Juan Sebastian Tabares Bueno
 **Programa:** Ingeniería en Informática · cuarto semestre
 **Semestre:** 2026-2
-**Usuario de GitHub:** <!-- @tuusuario -->
+**Usuario de GitHub:** sebastiantab1612
 
 ## Sobre mí
+Soy estudiante de universidad en ingenieria en informatica, me gusta el futbol.
+me gusta la programacion, tambien me gusta salir y pasar el rato.
+tambien estudio en el sena analisis y desarrollo de software
 
-<!-- Dos o tres líneas: qué te interesa de la programación web, qué juego te
-     gustaría construir si pudieras elegir, con qué lenguajes ya trabajaste. -->
 
 ## Progreso de la campaña
 
