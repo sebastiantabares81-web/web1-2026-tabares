@@ -10,6 +10,9 @@ Soy estudiante de universidad en ingenieria en informatica, me gusta el futbol.
 me gusta la programacion, tambien me gusta salir y pasar el rato.
 tambien estudio en el sena analisis y desarrollo de software
 
+**Usuario de GitHub:** sebastiantb1612
+
+
 
 ## Progreso de la campaña
 
