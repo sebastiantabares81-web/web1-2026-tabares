@@ -1,16 +1,16 @@
 # practica-00-registro
 
 ## Qué hice
-Cree el repositorio en github y lo cuadre en mi computador
+Un index.html en el cual se ve la informacion de mi personaje
 
 ## Cómo correrlo
-<!-- Los comandos exactos, o el enlace si es una página estática -->
+Poner a correr el codigo en live server
 
 ## URL desplegada
 <!-- El enlace donde funciona y se puede jugar -->
 
 ## Qué aprendí
-Aprendi a configurar mas a fondo un repositorio en github
+Aprendi mas de las estructuras de un html y que hace cada cosa
 
 ## Qué no alcancé a hacer
 <!-- Sé honesto: esto no baja la nota y ayuda a que recibas mejores comentarios -->

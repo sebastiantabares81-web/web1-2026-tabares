@@ -3,35 +3,23 @@
 
 
 ## Herramientas que usé
-<!-- Ej.: GitHub Copilot en VS Code, ChatGPT, Claude, Cursor. Indica también si no usaste ninguna. -->
+ChatGPT y navegador de Google
 
 
 
 ## Qué le pedí
-Explicar paso a paso la Misión 00 y ayudarme a comprender Git, GitHub, ramas, commits y Pull Requests.
-
-```
-```
+Explicacion y ayuda en estructuras de un index.html
 
 ## Qué me devolvió
-<!-- Pega el fragmento relevante -->
-Explicaciones sobre esos conceptos y el procedimiento para realizar la práctica.
-
-```javascript
-```
+explicaciones y paso a paso para la creacion de mi index
 
 ## Qué estaba mal
-<!-- La parte más importante del documento. Sé específico: qué falla, en qué caso,
-     por qué el código parecía correcto pero no lo era. Si de verdad no encontraste
-     ningún error, explica cómo lo verificaste (qué casos probaste). -->
+
 
 
 
 ## Qué corregí y por qué
-La forma de crear el repositorio porque lo estaba creando de mala manera
-
-```javascript
-```
+Algunas lineas del index ya que estaban mal ubicadas y generaban una estructura organizada en el trabajo
 
 ## Qué escribí yo desde cero
 <!-- Qué partes no delegaste, y por qué decidiste no delegarlas -->

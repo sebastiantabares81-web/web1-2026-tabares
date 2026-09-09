@@ -6,9 +6,9 @@
 **Usuario de GitHub:** sebastiantab1612
 
 ## Sobre mí
-Soy estudiante de universidad en ingenieria en informatica, me gusta el futbol.
-me gusta la programacion, tambien me gusta salir y pasar el rato.
-tambien estudio en el sena analisis y desarrollo de software
+Me gusta el tema de la programacion, el desarrollo de software y creacion de aplicaciones
+en mis tiempos libres me dedico al deporte, especialmente al futbol, disfruto de las peliculas y
+de la comida, me gusta salir y distraer  la mente.
 
 **Usuario de GitHub:** sebastiantb1612
 
